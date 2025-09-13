@@ -11,7 +11,7 @@ Elsayed Mostafa Ibrahim Mostafa Elwaly
 
 ### Log-Out
 This project aims to analyze the sales and profit data of a company in the United States through data processing and designing an interactive dashboard that presents key performance indicators and supports strategic decision-making based on data.
-Executive Summary
+### Executive Summary
 A comprehensive analysis was conducted on sales data for the first half of 2015 using data processing and business intelligence methodologies. The process included data cleaning, exploratory analysis, extraction of critical indicators, and the design of an interactive dashboard summarizing company performance by sectors, product categories, geographic regions, and key customers.
 ### Objectives
 • Analyze sales and profits distribution by product category, customer segment, and geography.
