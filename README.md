@@ -10,9 +10,12 @@ Elsayed Mostafa Ibrahim Mostafa Elwaly
 ## Details
 
 ### Log-Out
-This project aims to analyze the sales and profit data of a company in the United States through data processing and designing an interactive dashboard that presents key performance indicators and supports strategic decision-making based on data.
+This project aims to analyze the sales and profit data of a company in the United States through data processing 
+and designing an interactive dashboard that presents key performance indicators and supports strategic decision-making based on data.
 ### Executive Summary
-A comprehensive analysis was conducted on sales data for the first half of 2015 using data processing and business intelligence methodologies. The process included data cleaning, exploratory analysis, extraction of critical indicators, and the design of an interactive dashboard summarizing company performance by sectors, product categories, geographic regions, and key customers.
+A comprehensive analysis was conducted on sales data for the first half of 2015 using data processing and business intelligence methodologies.
+The process included data cleaning, exploratory analysis, extraction of critical indicators, and the design of an interactive dashboard summarizing
+company performance by sectors, product categories, geographic regions, and key customers.
 ### Objectives
 - Analyze sales and profits distribution by product category, customer segment, and geography.
 - Identify top customers and products contributing most to revenue.
@@ -47,7 +50,9 @@ A comprehensive analysis was conducted on sales data for the first half of 2015 
 - Eastern and Western regions show the highest profitability versus Southern region which recorded minor losses.
 - The results are summarized in a clear visual dashboard covering all critical aspects.
 ### Dashboard Interpretation
-The dashboard displays customer distribution, sales, and profits by segment and category, providing a comprehensive overview of monthly performance and target achievement. See the detailed dashboard explanation above for more insights.
+The dashboard displays customer distribution, sales, and profits by segment and category, providing 
+a comprehensive overview of monthly performance and target achievement. See the detailed dashboard explanation 
+above for more insights.
 
 
 
